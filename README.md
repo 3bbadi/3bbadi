@@ -13,6 +13,7 @@
 - 🏢 I'm a Charging Operation SPOC within the Margin Assurance Agile Tribe at Vodafone
 - 👨‍💻 With over 5 years of experience in telecommunications, I specialize in charging operations, Agile methodologies, and technical support.
 - 💬 Ask me about my experience with telecommunications, charging systems, or Agile practices.
+- 🌱 I recently completed a course in frontend development and have been practicing by building various projects.
 - ⚡ Fun Fact: I enjoy reading and exploring new places in my free time.
 <!-- - 👨‍💻 Check out my portfolio at [https://ahmad-abbadi.netlify.app](https://ahmad-abbadi.netlify.app) to see some of the projects I've worked on.  -->
 
@@ -35,12 +36,10 @@
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
-![Elastic Search](https://img.shields.io/badge/-Elastic%20Search-05122A?style=flat&logo=elasticsearch)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadabbadi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadabbadi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" /> -->
 <br>
 <a href="https://komarev.com/ghpvc/?username=ahmadabbadi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=ahmadabbadi&style=for-the-badge">
