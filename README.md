@@ -10,7 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Telecommunications%20Professional;Agile%20Practitioner;Experienced%20in%20Charging%20Operations;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Charging Operation SPOC within the Margin Assurance Agile Tribe at Vodafone
+
+- ![vodafone](https://img.shields.io/badge/-FF0000?style=flat&logo=vodafone)&nbsp; I'm a Charging Operation SPOC within the Margin Assurance Agile Tribe at Vodafone
 - 👨‍💻 With over 5 years of experience in telecommunications, I specialize in charging operations, Agile methodologies, and technical support.
 - 🌱 I recently completed a course in frontend development and have been practicing by building various projects.
 - ⚡ Fun Fact: I enjoy reading and exploring new places in my free time.
