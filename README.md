@@ -12,7 +12,6 @@
 
 - 🏢 I'm a Charging Operation SPOC within the Margin Assurance Agile Tribe at Vodafone
 - 👨‍💻 With over 5 years of experience in telecommunications, I specialize in charging operations, Agile methodologies, and technical support.
-- 💬 Ask me about my experience with telecommunications, charging systems, or Agile practices.
 - 🌱 I recently completed a course in frontend development and have been practicing by building various projects.
 - ⚡ Fun Fact: I enjoy reading and exploring new places in my free time.
 <!-- - 👨‍💻 Check out my portfolio at [https://ahmad-abbadi.netlify.app](https://ahmad-abbadi.netlify.app) to see some of the projects I've worked on.  -->
