@@ -11,7 +11,7 @@
 </p> 
 
 
-- ![vodafone](https://img.shields.io/badge/-FF0000?style=flat&logo=vodafone)&nbsp; I'm a Charging Operation SPOC within the Margin Assurance Agile Tribe at Vodafone
+- ![vodafone](https://img.shields.io/badge/-FF0000?style=flat&logo=vodafone)&nbsp; I'm a Specialist Charging Operation SPOC within the Margin Assurance Agile Tribe at Vodafone
 - 👨‍💻 With over 5 years of experience in telecommunications, I specialize in charging operations, Agile methodologies, and technical support.
 - 🌱 I recently completed a course in frontend development and have been practicing by building various projects.
 - ⚡ Fun Fact: I enjoy reading and exploring new places in my free time.
